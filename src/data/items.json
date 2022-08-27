@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Vanessa da Mata",
+    "price": 250,
+    "imgUrl": "/imgs/vanessa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Anitta",
+    "price": 220,
+    "imgUrl": "/imgs/anitta.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Zeca Pagodinho",
+    "price": 200,
+    "imgUrl": "/imgs/zeca.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Eminen",
+    "price": 275,
+    "imgUrl": "/imgs/eminen.jpg"
+  }
+]
